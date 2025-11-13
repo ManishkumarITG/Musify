@@ -1,6 +1,8 @@
+import { getAllTrack } from "./services/API"
+
 function App() {
  
-
+getAllTrack()
   return (
     <>
      
